@@ -12,7 +12,7 @@
 ## Let’s Collaborate!
 💞️ I’m open to collaborating on **innovative web development projects**. Feel free to connect with me on [LinkedIn - Mohammed Ben Cheikh](https://linkedin.com/in/mohammed-ben-cheikh) or explore my work on [GitHub](https://github.com/Mohammed-Ben-Cheikh).
 
-📫 How to reach me: [LinkedIn](https://linkedin.com/in/mohammed-ben-cheikh) | [GitHub](https://github.com/Mohammed-Ben-Cheikh)  
+📫 How to reach me: [LinkedIn](https://linkedin.com/in/mohammed-ben-cheikh) | [GitHub](https://github.com/Mohammed-Ben-Cheikh) | [mohammedbencheikh.official@gmail.com](mailto:mohammedbencheikh.official@gmail.com)
 😄 Pronouns: He/Him  
 ⚡ Fun fact: I love combining creativity with code to turn ideas into functional and aesthetic solutions!
 
