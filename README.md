@@ -1,14 +1,19 @@
-# 👋 Hi, I’m Mohammed Ben Cheikh
-- 👀 I’m interested in web development, design, and creating user-friendly digital experiences.
-- 🌱 I’m currently learning advanced JavaScript, php (POO and MVC), laravel, and Mysql, Postgresql . while working on projects like online stores and service platforms.
-- 💞️ I’m looking to collaborate on innovative web development projects and share knowledge with the community.
-- 📫 How to reach me: [LinkedIn](https://linkedin.com/in/mohammed-ben-cheikh) | [GitHub](https://github.com/Mohammed-Ben-Cheikh)  
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love combining creativity with code to turn ideas into functional and aesthetic solutions!
-- #mohammedbencheikh , #mohammed-ben-cheikh , #mohammed-bencheikh , #mohammed , #bencheikh , #youcode
-<!---
-Mohammed-Ben-Cheikh/Mohammed-Ben-Cheikh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# 👋 Hi, I’m Mohammed Ben Cheikh | Web Developer & Designer Specializing in Digital Experiences
 
+## About Me
+👋 I’m Mohammed Ben Cheikh, a passionate **web developer** and **designer** dedicated to creating high-quality digital solutions. 
 
+## Skills and Interests
+- **Web Development**: Advanced **JavaScript**, **PHP (POO and MVC)**, **Laravel**
+- **Database Management**: **MySQL**, **PostgreSQL**
+- **Projects**: Online stores, service platforms
+- **Design**: UI/UX for user-friendly digital experiences
+
+## Let’s Collaborate!
+💞️ I’m open to collaborating on **innovative web development projects**. Feel free to connect with me on [LinkedIn - Mohammed Ben Cheikh](https://linkedin.com/in/mohammed-ben-cheikh) or explore my work on [GitHub](https://github.com/Mohammed-Ben-Cheikh).
+
+📫 How to reach me: [LinkedIn](https://linkedin.com/in/mohammed-ben-cheikh) | [GitHub](https://github.com/Mohammed-Ben-Cheikh)  
+😄 Pronouns: He/Him  
+⚡ Fun fact: I love combining creativity with code to turn ideas into functional and aesthetic solutions!
+
+#WebDevelopment #JavaScript #PHP #Laravel #MySQL #PostgreSQL #DigitalDesign #UserExperience #OnlineStores
